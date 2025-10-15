@@ -29,7 +29,7 @@
 ---
 
 ### 🕵️ About Me
-- 🔭 Currently exploring **Penetration Testing & Purple Teaming**
+- 🔭 Currently exploring **Penetration Testing & Purple Team**
 - 🌱 Learning **Reverse Engineering & Malware Analysis**
 - 🧩 Passionate about solving CTF challenges
 - 💬 Ask me about **Linux, Bash, or Web Exploitation**
