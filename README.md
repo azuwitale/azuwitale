@@ -1,6 +1,14 @@
 ## Hi there 👋
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png)](https://tryhackme.com/p/Testt4rosa)  [![HackTheBox Badge](https://www.hackthebox.com/badge/image/2106016)](https://app.hackthebox.com/profile/2106016)
 
+<p align="center">
+  <a href="https://tryhackme.com/p/Testt4rosa" target="_blank" rel="noopener">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe - Testt4rosa" height="110" style="vertical-align: middle;" />
+  </a>
+  <span style="display:inline-block; width:18px;"></span>
+  <a href="https://app.hackthebox.com/profile/2106016" target="_blank" rel="noopener">
+    <img src="https://www.hackthebox.com/badge/image/2106016" alt="HackTheBox - 2106016" height="110" style="vertical-align: middle; border-radius:6px;" />
+  </a>
+</p>
 
 
 
