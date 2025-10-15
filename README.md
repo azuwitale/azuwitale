@@ -28,14 +28,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Testt4rosa" target="_blank" rel="noopener">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe Badge" height="110"/>
-  </a>
-</p>
-
----
-
 ### 🕵️ About Me
 - 🔭 Currently exploring **Penetration Testing & Blue Teaming**
 - 🌱 Learning **Reverse Engineering & Malware Analysis**
