@@ -3,13 +3,15 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Testt4rosa">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe" height="110"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe"
+      height="120" style="vertical-align:middle;margin-right:15px;"/>
   </a>
-</br>
   <a href="https://app.hackthebox.com/profile/2106016">
-    <img src="https://www.hackthebox.com/badge/image/2106016" alt="HackTheBox" height="100"/>
+    <img src="https://www.hackthebox.com/badge/image/2106016" alt="HackTheBox"
+      height="120" style="vertical-align:middle;"/>
   </a>
 </p>
+
 
 ---
 
