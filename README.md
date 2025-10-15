@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="Lencana Gambar Anda" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="Your Image Badge" />
+
 
 
 
