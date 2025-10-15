@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png)](https://tryhackme.com/p/Testt4rosa)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png)](https://tryhackme.com/p/Testt4rosa) && [![HackTheBox Badge](https://www.hackthebox.com/badge/image/2106016)](https://app.hackthebox.com/profile/2106016)
+
 
 
 
