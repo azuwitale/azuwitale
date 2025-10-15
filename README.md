@@ -1,19 +1,24 @@
 ## Hi there 👋
-<table align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <a href="https://tryhackme.com/p/Testt4rosa" target="_blank" rel="noopener">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe" height="110" />
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://app.hackthebox.com/profile/2106016" target="_blank" rel="noopener">
-        <img src="https://www.hackthebox.com/badge/image/2106016" alt="HackTheBox" height="96" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center" cellpadding="6" cellspacing="0">
+    <tr>
+      <td align="center">
+        <a href="https://tryhackme.com/p/Testt4rosa" target="_blank" rel="noopener">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe" height="110"/>
+        </a><br/>
+        <small>TryHackMe • Testt4rosa</small>
+      </td>
+      <td width="24"></td>
+      <td align="center">
+        <a href="https://app.hackthebox.com/profile/2106016" target="_blank" rel="noopener">
+          <img src="https://www.hackthebox.com/badge/image/2106016" alt="HackTheBox" height="96"/>
+        </a><br/>
+        <small>HackTheBox • 2106016</small>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 
