@@ -28,10 +28,10 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Testt4rosa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Testt4rosa&theme=tokyonight" alt="Streak Stats" height="150"/>
+  <a href="https://tryhackme.com/p/Testt4rosa" target="_blank" rel="noopener">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe Badge" height="110"/>
+  </a>
 </p>
 
 ---
