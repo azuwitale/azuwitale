@@ -2,12 +2,7 @@
 <h3 align="center">💻 Cybersecurity Enthusiast | 🧩 penetration testing | 🧠 Lifelong Learner</h3>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://tryhackme.com/p/Testt4rosa">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Testt4rosa.png" alt="TryHackMe" height="120">
-  </tr>
-</table>
+
 
 
 
