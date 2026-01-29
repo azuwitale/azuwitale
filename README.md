@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ugi Riska Prasetio ⚡</h1>
+
 <h3 align="center">💻 Cybersecurity Enthusiast | 🧩 penetration testing | 🧠 Lifelong Learner</h3>
 
 
